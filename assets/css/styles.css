@@ -1,0 +1,17 @@
+/*
+	bulkdiscount styles
+*/
+
+#bulkdiscount_active_tab .bulkdiscount_min_max{
+	width:9.5%;
+}
+
+#bulkdiscount_active_tab .bulkdiscount_min{
+	margin-right:1%;
+	
+}
+
+#bulkdiscount_active_tab #add_discount{
+	margin-top: 10px;
+	
+}
